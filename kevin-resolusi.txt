@@ -2,6 +2,6 @@ KEVIN RESOLUSI
 - Konsisten untuk belajar web programing 2x seminggu
 - Membuat platform unutk mengelola video
 - Membuat desain Front End
-- Belajar Back End 
+- Belajar Back End
 - Kolaborasi dengan lebih banyak team
 - Belajar Database
