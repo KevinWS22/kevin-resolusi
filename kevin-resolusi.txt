@@ -4,3 +4,4 @@ KEVIN RESOLUSI
 - Membuat desain Front End
 - Belajar Back End 
 - Kolaborasi dengan lebih banyak team
+- Belajar Database
